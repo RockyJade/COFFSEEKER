@@ -2,7 +2,7 @@
 資展會前端工程師養成班第42期 期末專題  iSpan-MFEE42
 
 - demo video：https://youtu.be/OW6MTzekUec
-- 企劃書：https://docs.google.com/presentation/d/1byhkkJLmXUOV1nK7ztHooKEq7oQMrJVKRmsG9C56JQs/edit?usp=sharing
+- 企劃書：https://docs.google.com/presentation/d/1Hp83zj3mIZ1ZkqcBvtAvwh-ieWKb310XrsM5Di-LGSo/edit?usp=sharing
 ## 作品說明
 「COFFSEEKER」是一家精選來自世界各地咖啡豆的品牌。我們深知現代人對咖啡風味的精緻要求，因此精心挑選各種不同的咖啡產品，希望使用者能在這裡找到屬於自己獨特的咖啡饗宴。
 

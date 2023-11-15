@@ -37,12 +37,15 @@
 
 ### 收藏功能
 
-#### 前端：
+#### 前端：React v18.2.0 / Next v13.4.2
 - [coffseeker-frontend/components/FavIcon.js](https://github.com/RockyJade/COFFSEEKER/blob/5e4601c2e5be8afe6da9bd4708323086f51d12e7/coffseeker-frontend/components/FavIcon.js)
 - [coffseeker-frontend/components/FavIconC.js](https://github.com/RockyJade/COFFSEEKER/blob/5e4601c2e5be8afe6da9bd4708323086f51d12e7/coffseeker-frontend/components/FavIconC.js)
 - [coffseeker-frontend/components/member/Favorite](https://github.com/RockyJade/COFFSEEKER/tree/5e4601c2e5be8afe6da9bd4708323086f51d12e7/coffseeker-frontend/components/member/Favorite)
 - [coffseeker-frontend/components/fav](https://github.com/RockyJade/COFFSEEKER/tree/5e4601c2e5be8afe6da9bd4708323086f51d12e7/coffseeker-frontend/components/fav)
 - [coffseeker-frontend/context/fav.js](https://github.com/RockyJade/COFFSEEKER/blob/5e4601c2e5be8afe6da9bd4708323086f51d12e7/coffseeker-frontend/context/fav.js)
 
-#### 後端：
+#### 後端：node.js v18.17.1 / Express v4.18.2
 - [coffseeker-backend/routes/favorite.js](https://github.com/RockyJade/COFFSEEKER/blob/5e4601c2e5be8afe6da9bd4708323086f51d12e7/coffseeker-backend/routes/favorite.js)
+
+
+＊免責聲明: 本專題僅供資展國際期末專題使用， 不得使用於任何商業用途，如有侵權敬請告知＊

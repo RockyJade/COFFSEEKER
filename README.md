@@ -48,4 +48,4 @@
 - [coffseeker-backend/routes/favorite.js](https://github.com/RockyJade/COFFSEEKER/blob/5e4601c2e5be8afe6da9bd4708323086f51d12e7/coffseeker-backend/routes/favorite.js)
 
 
-＊免責聲明: 本專題僅供資展國際期末專題使用， 不得使用於任何商業用途，如有侵權敬請告知＊
+＊免責聲明：本專題僅供資展國際期末專題使用， 不得使用於任何商業用途，如有侵權敬請告知＊
